@@ -1,1 +1,1 @@
-README
+This is a Random name Generator. Just do NPX random-name-gen and it will download the dependecyes and start the program. It will ask you if you want to Generate a boy name or a girl name. And then it will give you the specified name plus a Random last name.
